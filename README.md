@@ -1,2 +1,3 @@
 # hello-world
-test porgram
+test program
+i am new at this git programming
